@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sahilgala1234/TextUtils-React/static/css/main.433d6c65.css",
+    "main.js": "/sahilgala1234/TextUtils-React/static/js/main.7af4605d.js",
+    "static/js/787.6714351d.chunk.js": "/sahilgala1234/TextUtils-React/static/js/787.6714351d.chunk.js",
+    "static/media/logo.svg": "/sahilgala1234/TextUtils-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sahilgala1234/TextUtils-React/index.html",
+    "main.433d6c65.css.map": "/sahilgala1234/TextUtils-React/static/css/main.433d6c65.css.map",
+    "main.7af4605d.js.map": "/sahilgala1234/TextUtils-React/static/js/main.7af4605d.js.map",
+    "787.6714351d.chunk.js.map": "/sahilgala1234/TextUtils-React/static/js/787.6714351d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433d6c65.css",
+    "static/js/main.7af4605d.js"
+  ]
+}
