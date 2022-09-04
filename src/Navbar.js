@@ -29,16 +29,16 @@ export default function Navbar(props)
        
           
        <div className="d-flex">
-        <div className="rounded  bord mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('pri')}} ></div>
+        <div className="rounded  bord mb-3 mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('pri')}} ></div>
         </div>   
         <div className="d-flex">
-        <div className="bg-success rounded mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('success')}} ></div>
+        <div className="bg-success rounded mb-3 mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('success')}} ></div>
         </div>   
         <div className="d-flex">
-        <div className="bg-danger rounded mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('danger')}} ></div>
+        <div className="bg-danger rounded mb-3 mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('danger')}} ></div>
         </div>   
         <div className="d-flex">
-        <div className="bg-warning rounded mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('warning')}} ></div>
+        <div className="bg-warning rounded mb-3 mx-3" style={{height:'30px', width:'30px',cursor:'pointer'}} onClick={()=>{props.togglecolor('warning')}} ></div>
         </div>   
         
               
